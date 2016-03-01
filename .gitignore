@@ -1,5 +1,5 @@
 results/
-a.dat
-b.dat
-c.dat
+*.dat
+*.fastq
 #will tell git which files to ignore
+
