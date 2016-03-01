@@ -1,0 +1,5 @@
+results/
+a.dat
+b.dat
+c.dat
+#will tell git which files to ignore
